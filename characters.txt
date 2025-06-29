@@ -1,0 +1,1 @@
+LLM Prompt Example: "Describe a young villager named Elara, who is brave and curious, and has just found a mysterious map. About 50 words."
