@@ -1,1 +1,2 @@
 LLM Prompt Example: "Describe a young villager named Elara, who is brave and curious, and has just found a mysterious map. About 50 words."
+LLM Prompt Example: "Describe a loyal wolf companion named Shadow for Elara in 'The Whispering Woods Chronicle'. About 50 words."
