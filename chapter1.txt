@@ -1,4 +1,0 @@
-n the quiet village of Elmsreach, nestled on the edge of an ancient forest, sixteen-year-old Kael stumbled upon a weathered scroll hidden beneath the floorboards of his late grandfather’s cottage. The map was drawn in fading ink, its lines twisting like roots, with strange runes pulsing faintly in the candlelight. At its center was a name long forbidden in village tales—The Whispering Woods. Legends spoke of voices carried on the wind, trees that moved when no one watched, and a gate that led to forgotten realms. Heart pounding, Kael knew this was no bedtime story. It was a summons.
-
-LLM Prompt Example: "Continue the story from 'The Whispering Woods Chronicle' where Elara has found a map. Write two more paragraphs where she examines the map and decides to venture into the woods."
-LLM Prompt Example: "Elara, alone, steps into the Whispering Woods for the first time. Describe the atmosphere and her initial feelings. One paragraph."
