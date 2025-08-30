@@ -19,7 +19,7 @@ public class Calculator {
             }
             case ('+') -> System.out.println(firstNum +" "+ operator +" "+ secondNum + "=" + (firstNum + secondNum));
             case ('-') -> System.out.println(firstNum + " "+operator +" "+ secondNum + "=" + (firstNum - secondNum));
-            default -> System.out.println("Invalid operator ");
+            default -> System.out.println("Invalid operator "); //Adding invalide case 
         }
     }
 }
