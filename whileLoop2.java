@@ -5,12 +5,12 @@ public class whileLoop2 {
         int Age = 0;
         System.out.print("Enter your Age :");
         Age=scanner.nextInt();
-        //while loop prevent the negative numbers of Age
-        while (Age<0) {
+        //do-while loop
+      do{
             System.out.println("Your Age can't be negative ");
             System.out.print("Enter your Age :");
             Age=scanner.nextInt();
-        }
+        }  while (Age<0);
 
         System.out.println("Your Age is  "+Age +" Years old ");
         scanner.close();
