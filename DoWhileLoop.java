@@ -9,7 +9,7 @@ public class DoWhileLoop{
             System.out.println("Please Enter number between 1 and 10 ");
             System.out.print("Enter number :");
             num=scanner.nextInt();
-        }while (num<0 ||num>10);
+        }while (num<0 ||num>10); //do the code above while number is not between 0 and 10
 
         System.out.println("The number you picked is  "+num );
     }
