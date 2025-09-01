@@ -8,6 +8,7 @@ public class NestedLoop {
         int columns = scanner.nextInt();
         System.out.print("Enter Symbol to use: ");
         char symbol = scanner.next().charAt(0);
+        //nested loop -> loop inside loop 
         for(int i= 0 ; i<row;i++){
             for(int j =0 ; j<columns ;j++){
                 System.out.print(symbol);
