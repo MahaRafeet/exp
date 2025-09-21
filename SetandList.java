@@ -6,6 +6,7 @@ import java.util.Set;
 public class SetandList {
 
     public static void main(String[] args) {
+        //create a list
         List<Integer>numberList=new ArrayList<>();
         numberList.add(1);
         numberList.add(2);
